@@ -12,7 +12,7 @@ Premierement on crée un client :
 Apres l'enregistrement de ce client , on vous donne la possibilité de créer une commande en verifiant votre identifiant ,sinon vous avez la possibilité de consulter la liste des commandes deja faites:
 ![image](https://user-images.githubusercontent.com/85033376/203442082-597d0219-f0bf-4547-952a-0da7390e06ae.png)
 ![image](https://user-images.githubusercontent.com/85033376/203442638-61a4acc2-5e23-46cc-8bd4-1ed39d5c7469.png)
-Vous pouvez egalement consulter les commandes deja crées :
+Vous pouvez egalement consulter la liste des lignes de commande, ca veut dire chaque commande et les produits qu'elle contient:
 ![image](https://user-images.githubusercontent.com/85033376/203442766-1cff48ff-8846-4d70-be64-5f738bd24689.png)
 Revenons à la création de la commande :
 Apres la création de la commande , on vous dirige vers la liste des produits : 
